@@ -1,0 +1,38 @@
+h1{
+    font-family: sans-serif;
+  }
+
+  #descrição{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+  }
+
+  .meunome{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    
+  }
+
+  #minha-foto{
+    padding: 10px;
+    border-radius: 50%;
+    background-color: #3a082e;
+  }
+
+  body{
+    background-color: #9C528B;
+    text-align: justify;
+  }
+
+  .lista {
+    font-size: 20px
+  }
+   
+  .lista1 {
+    font-size: 22px
+  }
+
+  lista2{
+    font-size: 26px
+  }
+  .lista3{
+    font-size: 16px
+  }
